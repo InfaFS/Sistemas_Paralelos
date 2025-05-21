@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.sql": "sql",
+        "pthread.h": "c",
+        "time.h": "c"
+    }
+}
