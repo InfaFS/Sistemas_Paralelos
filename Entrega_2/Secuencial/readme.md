@@ -1,3 +1,0 @@
--Modificamos la traspociion para ponerla dentro del dwalltime
--Usamos dos fors para el calculo del escalar
--en BLKmul usamos variable auxiliar

@@ -5,4 +5,4 @@
 #SBATCH -o /nethome/spusuario9/Entrega_2/OpenMP/output.txt
 #SBATCH -e /nethome/spusuario9/Entrega_2/OpenMP/errors.txt
 gcc -fopenmp -O3 MatMulOMP.c -o MatMulOMP
-./SolucionRuloModified {N} {Threads}
+./MatMulOMP 512 2
