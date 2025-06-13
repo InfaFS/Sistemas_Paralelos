@@ -1,0 +1,4 @@
+/var/slurm/spool/slurmd/job158542/slurm_script: línea 11: SalidaMPI/output_512_N1.txt: No existe el fichero o el directorio
+/var/slurm/spool/slurmd/job158542/slurm_script: línea 11: SalidaMPI/output_1024_N1.txt: No existe el fichero o el directorio
+/var/slurm/spool/slurmd/job158542/slurm_script: línea 11: SalidaMPI/output_2048_N1.txt: No existe el fichero o el directorio
+/var/slurm/spool/slurmd/job158542/slurm_script: línea 11: SalidaMPI/output_4096_N1.txt: No existe el fichero o el directorio

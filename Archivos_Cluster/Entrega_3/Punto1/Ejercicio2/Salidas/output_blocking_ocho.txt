@@ -1,0 +1,16 @@
+Tiempo transcurrido 0.000001 (s):	proceso 0, llamando a MPI_Recv() [bloqueante] (fuente rank 1)
+Tiempo transcurrido 2.000175 (s):	proceso 0, MPI_Recv() devolvio control con mensaje: Hola Mundo! Soy el proceso 1
+Tiempo transcurrido 2.000188 (s):	proceso 0, llamando a MPI_Recv() [bloqueante] (fuente rank 2)
+Tiempo transcurrido 4.003836 (s):	proceso 0, MPI_Recv() devolvio control con mensaje: Hola Mundo! Soy el proceso 2
+Tiempo transcurrido 4.003847 (s):	proceso 0, llamando a MPI_Recv() [bloqueante] (fuente rank 3)
+Tiempo transcurrido 6.003857 (s):	proceso 0, MPI_Recv() devolvio control con mensaje: Hola Mundo! Soy el proceso 3
+Tiempo transcurrido 6.003870 (s):	proceso 0, llamando a MPI_Recv() [bloqueante] (fuente rank 4)
+Tiempo transcurrido 8.003899 (s):	proceso 0, MPI_Recv() devolvio control con mensaje: Hola Mundo! Soy el proceso 4
+Tiempo transcurrido 8.003912 (s):	proceso 0, llamando a MPI_Recv() [bloqueante] (fuente rank 5)
+Tiempo transcurrido 10.000044 (s):	proceso 0, MPI_Recv() devolvio control con mensaje: Hola Mundo! Soy el proceso 5
+Tiempo transcurrido 10.000059 (s):	proceso 0, llamando a MPI_Recv() [bloqueante] (fuente rank 6)
+Tiempo transcurrido 12.000069 (s):	proceso 0, MPI_Recv() devolvio control con mensaje: Hola Mundo! Soy el proceso 6
+Tiempo transcurrido 12.000082 (s):	proceso 0, llamando a MPI_Recv() [bloqueante] (fuente rank 7)
+Tiempo transcurrido 14.003828 (s):	proceso 0, MPI_Recv() devolvio control con mensaje: Hola Mundo! Soy el proceso 7
+
+Tiempo total = 14.003842 (s)

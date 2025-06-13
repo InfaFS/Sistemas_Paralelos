@@ -1,0 +1,14 @@
+Tiempo transcurrido 0.000001 (s):	proceso 0, llamando a MPI_IRecv() [no bloqueante] (fuente rank 1)
+Tiempo transcurrido 0.000047 (s):	proceso 0, MPI_IRecv() devolvio el control..
+					..pero el mensaje no fue aun recibido..
+Tiempo transcurrido 1.999972 (s):	proceso 0, operacion receive completa con mensaje: Hola Mundo! Soy el proceso 1
+Tiempo transcurrido 1.999984 (s):	proceso 0, llamando a MPI_IRecv() [no bloqueante] (fuente rank 2)
+Tiempo transcurrido 1.999992 (s):	proceso 0, MPI_IRecv() devolvio el control..
+					..pero el mensaje no fue aun recibido..
+Tiempo transcurrido 4.000097 (s):	proceso 0, operacion receive completa con mensaje: Hola Mundo! Soy el proceso 2
+Tiempo transcurrido 4.000110 (s):	proceso 0, llamando a MPI_IRecv() [no bloqueante] (fuente rank 3)
+Tiempo transcurrido 4.000118 (s):	proceso 0, MPI_IRecv() devolvio el control..
+					..pero el mensaje no fue aun recibido..
+Tiempo transcurrido 6.000411 (s):	proceso 0, operacion receive completa con mensaje: Hola Mundo! Soy el proceso 3
+
+Tiempo total = 6.000424 (s)
