@@ -1,1 +1,0 @@
-Calculo de vector (N=2048)	Tiempo total=2.928587	Tiempo comunicacion=1.040606
